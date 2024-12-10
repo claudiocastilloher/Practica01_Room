@@ -1,0 +1,42 @@
+# Archivos y carpetas generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas de compilación
+/build/
+/.idea/
+/.gradle/
+
+# Configuraciones locales específicas del desarrollador
+local.properties
+
+# Archivos generados por Android Studio
+captures/
+.externalNativeBuild/
+
+# Archivos de registro
+*.log
+
+# Archivos de claves y configuraciones sensibles
+**/google-services.json
+**/keystore.*
+
+# Configuración específica del sistema operativo
+*.iml
+*.swp
+*.tmp
+*.pid
+*.seed
+
+# Binarios y librerías
+*.apk
+*.ap_
+*.dex
+*.so
+*.jar
+
+# Archivos específicos del IDE
+*.vscode
+.idea/workspace.xml
+.idea/libraries/
+.idea/modules.xml
